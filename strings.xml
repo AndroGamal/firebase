@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="v">save FireBase</string>
+    <string name="r">read FireBase</string>
+    <string name="list">List</string>
+    <string name="research">research</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+</resources>
